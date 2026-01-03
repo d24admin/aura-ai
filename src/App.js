@@ -34,7 +34,7 @@ function App() {
     e.preventDefault();
     setStatus('sending');
     
-    emailjs.send('service_j6fi1rc', 'template_8ya2gtn', formData, '9TSqBAEXTi0i536Xq')
+    emailjs.send('service_ve8sxe8', 'template_a598kmq', formData, 'Z3qmCPC7klj7rrxPW')
     
     setTimeout(() => {
       setStatus('success');

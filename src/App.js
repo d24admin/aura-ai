@@ -151,6 +151,10 @@ function App() {
                 <a href="#solutions" className="inline-flex items-center justify-center px-8 py-4 text-base font-bold text-slate-900 bg-white border-2 border-slate-200 rounded-full hover:border-slate-900 transition-all active:scale-95">
                   Explore Solutions
                 </a>
+                <a href="https://wa.me/15556210026?text=Hello" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center px-8 py-4 text-base font-bold text-slate-900 bg-white border-2 border-slate-200 rounded-full hover:border-[#25D366] hover:text-[#25D366] transition-all active:scale-95">
+                  <WhatsAppIcon className="mr-2 h-5 w-5" />
+                  Chat on WhatsApp
+                </a>
               </div>
             </motion.div>
           </div>
